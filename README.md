@@ -6,7 +6,7 @@
 - Kali Linux
 - setoolkit
 
-### Configurando o Phishing no Kali LinuxJ
+### Configurando o Phishing no Kali Linux
 
 1- Acesso root: ``` sudo su ```
 2- Iniciando o setoolkit: ``` setoolkit ```
